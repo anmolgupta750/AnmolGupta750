@@ -58,7 +58,7 @@ status: Open to AI/ML Engineer, Data Science & SDE Roles
 
 **// languages & core**
 
-<img src="https://skillicons.dev/icons?i=py,sql,html,css,js,powershell&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,java,html,css,js,powershell,bash&theme=dark" />
 
 <br/>
 
